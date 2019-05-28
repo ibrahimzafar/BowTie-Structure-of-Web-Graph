@@ -1,7 +1,15 @@
 # Graphs
-This repository explores some basic blind search algorithms on graphs, such as Breadth First Search and Depth First Search. 
+This repository explores the Bow-Tie Structure that is characteristic of many graphs. 
 
-It also analyzes the Bow-Tie structure characteristic of many graphs, as shown in the following research papers:
+
+## Author
+You can get in touch with me on <a class="btn-linkedin" href="https://www.linkedin.com/in/ibrahim-zfr/">LinkedIn</a>!
+
+If you liked my repository, kindly support my work by giving it a ⭐!
+
+
+## About this Repository
+The following research papers were studied:
 https://www.researchgate.net/publication/200111010_Mining_the_Inner_Structure_of_the_Web_Graph
 http://snap.stanford.edu/class/cs224w-readings/broder00bowtie.pdf
 http://cs.wellesley.edu/~pmetaxas/Why_Is_the_the_Web_a_Bowtie.pdf
@@ -44,4 +52,13 @@ The components of the epinions network given by this implementation are as follo
 |OUT          |    15455   |
 |TENDRILS+TUBES|3966        |
 |DISCONNECTED | 19         |
+
+## Contributions are Welcome!
+Feel free to improves the code by generating a pull request!<br>
+
+
+## License
+[MIT License](https://github.com/ibrahimzafar/Graphs/blob/master/LICENSE.md)
+
+
 
