@@ -7,6 +7,8 @@ http://snap.stanford.edu/class/cs224w-readings/broder00bowtie.pdf
 http://cs.wellesley.edu/~pmetaxas/Why_Is_the_the_Web_a_Bowtie.pdf
 
 
+![alt text](https://github.com/ibrahimzafar/Graphs/blob/master/bowtie.PNG "Bow Tie Structure") <br>
+Picture taken from Broder et. al.
 
 The Bow-Tie structure of the Epinions social network was used, using the dataset made available by Stanford. 
 https://snap.stanford.edu/data/soc-Epinions1.html
